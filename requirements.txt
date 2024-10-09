@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scikit-image 
+tensorflow=1.14.0
+jupyter
+opencv-python
+d3blocks
+scatterd
+clusteval
