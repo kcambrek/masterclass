@@ -1,10 +1,25 @@
 # Workshop Clustering.
 
-#### Workshop Neurale netwerken met Tensorflow/Keras
-[![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/deel_1_Verkeersborden_classificeren_tf2_keras.ipynb)
+#### Hands on session 1 - Metrics and linkages
+[![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kcambrek/masterclass/blob/main/notebooks/Session_1_Clustering.ipynb)
 
-#### Workshop Clusteren met PCA en HOG features
-[![Workshop Deel 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rwsdatalab/verkeersborden/blob/master/notebooks/Verkeersborden_clusteren.ipynb)
+#### Hands on session 2 - Clustering algorithms
+[![Workshop Deel 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kcambrek/masterclass/blob/main/notebooks/Session_2_Clustering_algorithms.ipynb)
+
+#### Hands on session 3 - Clustering algorithms
+[![Workshop Deel 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kcambrek/masterclass/blob/main/notebooks/Session_3_Cluster_validation.ipynb)
+
+#### Hands on session 4 - Clustering evaluatie
+[![Workshop Deel 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kcambrek/masterclass/blob/main/notebooks/Session_4_Clusteval.ipynb)
+
+#### Hands on session 5 - Verkeersborden clusteren
+[![Workshop Deel 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kcambrek/masterclass/blob/main/notebooks/Session_5_Verkeersborden_clusteren.ipynb)
+
+#### Hands on session 6 - Categorical clustering
+[![Workshop Deel 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kcambrek/masterclass/blob/main/notebooks/Session_6_Categorical_clusteren.ipynb)
+
+#### Hands on session 7 - Embeddings
+[![Workshop Deel 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kcambrek/masterclass/blob/main/notebooks/Session_7_Embeddings.ipynb)
 
 ----
 
